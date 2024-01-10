@@ -15,10 +15,10 @@ const poems = [
     image: "bee.jpeg",
   },  
   {
-    author: "Bees",
-    poem: "Bees Knees",
-    image: "bee.jpeg",
-  }
+    author: "Arnold",
+    poem: "Poems are good",
+    image: "sunflower.jpeg",
+  }, 
 ];
 
 let displayPoems = (array) => {
